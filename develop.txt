@@ -1,3 +1,6 @@
+<p>
+ローカル上で変更実施    
+</p>
 develop.txt
 /*
 fixed
